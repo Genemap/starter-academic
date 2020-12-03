@@ -21,14 +21,14 @@ organizations:
   - name: CureVac AG
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: PhD in Biochemical Engineering
+      institution: "Jacobs University Bremen "
+      year: 2017
+    - course: Master of Technology in Industrial Biotechnology
+      institution: National Institute of Technology Karnataka
       year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: Bachelor of Engineering in Biotechnology
+      institution: Visvesvaraya Technological University
       year: 2008
 email: ""
 superuser: true
