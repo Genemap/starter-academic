@@ -30,7 +30,7 @@ education:
     - course: Bachelor of Engineering in Biotechnology
       institution: Visvesvaraya Technological University
       year: 2008
-email: ""
+email: vikas.yelemane@gmail.com
 superuser: true
 user_groups:
   - Researchers
