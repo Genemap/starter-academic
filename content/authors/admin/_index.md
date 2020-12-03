@@ -1,7 +1,7 @@
 ---
 title: Vikas Yelmane
 role: Scientist, Process Development
-avatar_filename: download.png
+avatar_filename: untitled.jpg
 bio: My research interests include Chromatography, filtration.
 interests:
   - Artificial Intelligence
