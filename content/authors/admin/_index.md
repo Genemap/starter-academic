@@ -1,6 +1,7 @@
 ---
 title: Vikas Yelmane
 role: Scientist, Process Development
+avatar_filename: download.png
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
