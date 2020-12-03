@@ -1,6 +1,6 @@
 ---
 title: Vikas Yelmane
-role: Professor of Artificial Intelligence
+role: Scientist, Process Development
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
