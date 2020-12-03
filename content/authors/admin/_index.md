@@ -11,15 +11,15 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.de/citations?user=vhA0K5gAAAAJ&hl=en
   - icon: github
     icon_pack: fab
     link: https://github.com/Genemap
+  - icon_pack: fab
+    link: https://www.linkedin.com/in/vikasysr/
+    icon: linkedin
 organizations:
   - name: CureVac AG
 education:
