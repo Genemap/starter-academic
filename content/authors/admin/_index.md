@@ -4,7 +4,7 @@ role: Scientist, Process Development
 avatar_filename: untitled.jpg
 bio: My research interests include Chromatography, filtration.
 interests:
-  - Artificial Intelligence
+  - Downstream bioprocessing
   - Computational Linguistics
   - Information Retrieval
 social:
