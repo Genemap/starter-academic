@@ -21,8 +21,7 @@ social:
     icon_pack: fab
     link: https://github.com/gcushen
 organizations:
-  - name: Stanford University
-    url: ""
+  - name: CureVac AG
 education:
   courses:
     - course: PhD in Artificial Intelligence
