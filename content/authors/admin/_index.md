@@ -14,9 +14,6 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.de/citations?user=vhA0K5gAAAAJ&hl=en
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/Genemap
   - icon_pack: fab
     link: https://www.linkedin.com/in/vikasysr/
     icon: linkedin
