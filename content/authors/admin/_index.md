@@ -34,7 +34,6 @@ email: vikas.yelemane@gmail.com
 superuser: true
 user_groups:
   - Researchers
-  - Visitors
 highlight_name: false
 ---
 Experienced Process Development Scientist with a demonstrated history of working in the biotechnology industry. Skilled in Quality by Design, Research and Development (R&D), Process Optimization, Downstream Processing, and Analytical Chemistry. Strong community and social services professional with a Doctor of Philosophy (PhD) focused in Biochemical Engineering from Jacobs University Bremen. c
