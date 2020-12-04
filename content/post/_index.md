@@ -3,7 +3,7 @@ draft: true
 view: 2
 title: "PostsTest post: 2021 market outlook: Bet on international equities to
   take advantage of a recovery, says JPMorgan strategist"
-date: 2020-12-04T15:22:34.981Z
+date: 2020-12-04T15:26:31.293Z
 authors:
   - vik
 header:
